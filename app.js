@@ -12,4 +12,4 @@ var ChemistryMarks = +prompt("Enter your Chemistry Marks:");
 var studentobtainedmarks = EnglishMarks + ComputerMarks + MathsMarks + PhysicsMarks + ChemistryMarks;
 
 var percentage = (studentobtainedmarks / totalMarks) * 100;
-console.log("Percentage: " + percentage + "%");
+console.log("Percentage is: " + percentage + "%");
